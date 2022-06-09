@@ -13,4 +13,6 @@
 
 This task is an assignment on topic of functions.
 
-## Check replit link for game output.
+## Replit link - Game output.
+
+https://my-secretnumber.maodevv.repl.co/
