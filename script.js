@@ -113,5 +113,3 @@ let point = 0;
 
 const mySecretNumber = secretNumber(min, max)
 console.log(`My Secret Number = ${mySecretNumber}`)
-
-checkUser()
